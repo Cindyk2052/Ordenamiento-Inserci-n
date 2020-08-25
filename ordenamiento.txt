@@ -1,0 +1,4 @@
+Arreglo original: [-2][-19][56][200][48][-48][28][-10][159][1]
+Arreglo ordenado: [-48][-19][-10][-2][1][28][48][56][159][200]
+Total de elementos: 10
+Suma de elementos: 413
